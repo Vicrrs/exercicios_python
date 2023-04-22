@@ -1,11 +1,7 @@
-def maior_idade(idade):
-    if idade >= 18:
-        print("É maior de idade!")
-    else:
-        print("É menor de idade!")
+def idade_maior(num):
+    print("Maior idade" if num >= 18 else "Menor idade")
 
 
-if __name__ == "__main__":
-    idade = int(input("Digite sua idade: "))
-
-    maior_idade(idade)
+if __name__ == '__main__':
+    idade = int(input("Digite a idade: "))
+    idade_maior(idade)
