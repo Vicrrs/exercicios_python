@@ -1,0 +1,19 @@
+Faremos os programas a tomarem certas decisões dependendo de condições prévias. Chamamos essa capacidade de tomada de
+decisões em programas de fluxo de execução: dependendo do que acontecer a execução.
+
+*Condicionais:
+    Uma capacidade importantíssima de uma linguagem de programação, necessária em praticamento
+    ttodo programa de computador, é a capacidade de tomar decisões baseadas em certas condições.
+
+    A linguagem Python usa algumas palavras-chave para indicar execução condicional de código: if, elif (else if), else.
+    Basicamente, os condicionais nos permitem selecionar certos blocos de código que serão ou não executados dependendo
+    de certas condições. Em alto nível, um condicional é como a sequência de passos abaixo:
+
+    1. A condição é verdadeira?
+
+    2. Se sim, execute um trecho de código.
+
+    3. Caso contrário, execute outro trecho de código.
+
+
+

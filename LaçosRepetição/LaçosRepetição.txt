@@ -1,0 +1,7 @@
+*Estrutura de repetição
+    A repetição de comandos até que uma dada condição seja satisfeita. As linguagens de programação implementam isso por
+    meio dos chamados laços de repetição.
+
+    Laços for
+    Existem vários tipos de laços (loops) em Python. O mais comum deles é o for, que é usado com objetos iteráveis tais
+    como listas e intervalos. Os exemplos abaixo mostram o funcionamento básico do for

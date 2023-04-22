@@ -1,0 +1,11 @@
+Uma função é basicamente um trecho de código (um procedimento, um algoritmo) que pode ser usado várias vezes.
+
+Funções em Python são definidas por meio da seguinte sintaxe:
+
+def nomedafuncao(parametro1, parametro2, ...):
+    corpodafuncao
+
+
+Funções anônimas, funções lambda, ou funções de alta ordem em Python. A palavra-chave lambda em Python nos permite
+criar funções anônimas. Este tipo de função é útil quando desejamos passar uma função simples como argumento para
+outra função.
