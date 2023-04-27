@@ -1,0 +1,11 @@
+Em Python, a estrutura try-except é usada para lidar com exceções, ou seja, erros que 
+ocorrem durante a execução do programa. A ideia é tentar executar um bloco de código e, 
+caso ocorra algum erro, o bloco de código dentro do bloco except será executado em vez 
+de interromper o programa com uma mensagem de erro.
+
+
+# Sintaxe básica
+try:
+    # bloco de código a ser executado
+except:
+    # bloco de código a ser executado caso ocorra uma exceção
