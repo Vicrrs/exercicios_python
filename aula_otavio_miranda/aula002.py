@@ -20,4 +20,6 @@ print(0.0, 1.5)
 """
 A funcao type mostra o tupo que o python inferiu o valor
 """
-print(type())
+print(type("Victor"))
+print(type(1))
+print(type(1.1), type(-1.1), type(0.0))
