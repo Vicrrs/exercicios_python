@@ -15,7 +15,7 @@ class DatabaseConnection:
                     user = self._user,
                     password = self._password
                 )
-            except Exception as e:
+            except psycopg2.ProgrammingError as e:
                 print(f"An error occurred: {e}")
         return self_conn
     
