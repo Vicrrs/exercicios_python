@@ -3,6 +3,11 @@
 
 # Atributos publicos e privados
 
+"""
+    Teoria: Usamos o prefixo `_` para indicar `_nome` é um atributo privado, que não
+    deve ser acessado diretamente fora da classe.
+"""
+
 class Pessoa:
     def __init__(self, nome, idade):
         self._nome = nome # Atributo privado
